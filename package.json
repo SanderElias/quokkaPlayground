@@ -1,0 +1,12 @@
+{
+  "name": "quakka_playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sander Elias <sanderelias+git@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^6.0.0-rc.0",
+    "ts-node": "^5.0.1",
+    "typescript": "^2.8.1"
+  }
+}
